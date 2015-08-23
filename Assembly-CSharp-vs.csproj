@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{EFC6FFD9-0D21-FEEC-2E54-C267CA863EC8}</ProjectGuid>
+	<ProjectGuid>{B0BD3BA3-E783-0328-A806-D7976B3F66F0}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,9 +46,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Player\HUD\HUD.cs" />
      <Compile Include="Assets\Player\Player.cs" />
      <Compile Include="Assets\Player\UserInput.cs" />
      <Compile Include="Assets\RTS\ResourceManager.cs" />
+     <Compile Include="Assets\WorldObject\Building\Building.cs" />
+     <Compile Include="Assets\WorldObject\WorldObject.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

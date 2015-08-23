@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{91428056-C0F8-5516-6D8E-C5D24D512679}") = "insurrection-rts", "Assembly-CSharp-vs.csproj", "{EFC6FFD9-0D21-FEEC-2E54-C267CA863EC8}"
+Project("{3E42E945-45C2-8292-1104-E52EE7BB4AB8}") = "rts-test", "Assembly-CSharp-vs.csproj", "{B0BD3BA3-E783-0328-A806-D7976B3F66F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EFC6FFD9-0D21-FEEC-2E54-C267CA863EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFC6FFD9-0D21-FEEC-2E54-C267CA863EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFC6FFD9-0D21-FEEC-2E54-C267CA863EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFC6FFD9-0D21-FEEC-2E54-C267CA863EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BD3BA3-E783-0328-A806-D7976B3F66F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BD3BA3-E783-0328-A806-D7976B3F66F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BD3BA3-E783-0328-A806-D7976B3F66F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BD3BA3-E783-0328-A806-D7976B3F66F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-											GlobalSection(MonoDevelopProperties) = preSolution
+			GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
